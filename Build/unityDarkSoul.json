@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Lab4",
+"dataUrl": "unityDarkSoul.data.unityweb",
+"asmCodeUrl": "unityDarkSoul.asm.code.unityweb",
+"asmMemoryUrl": "unityDarkSoul.asm.memory.unityweb",
+"asmFrameworkUrl": "unityDarkSoul.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
