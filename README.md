@@ -1,6 +1,10 @@
 unityDarkSoul
 
-A 2d game based on the knight of solaire as shown in the intro scene , due to the copy right issues,the intro video which i edited myself is not allowed for the demo of my game.(Bandai game company policy)But i edited the video myself and i will leave the linkhttps://drive.google.com/file/d/1glvVYLCX13wLTFMEWDq2esuOs5ZPANtZ/view?usp=sharing
+A 2d game based on the knight of solaire as shown in the intro scene , due to the copy right issues,the intro video which i edited myself is not allowed for the demo of my game.(Bandai game company policy)But i edited the video myself and i will leave the link
+
+
+
+https://drive.google.com/file/d/1glvVYLCX13wLTFMEWDq2esuOs5ZPANtZ/view?usp=sharing
 
 Getting Started
 
