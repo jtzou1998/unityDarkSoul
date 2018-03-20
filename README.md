@@ -6,6 +6,11 @@ A 2d game based on the knight of solaire as shown in the intro scene , due to th
 
 https://drive.google.com/file/d/1glvVYLCX13wLTFMEWDq2esuOs5ZPANtZ/view?usp=sharing
 
+For the game scene.I created the background myself using adobe Ai and PS and the arts have been sold to an indie horror game website including the 5 dark trees , the darkbackground,all the platforms ,grasses.But I do not own the animation and sprites of the enimies nor the background of the mainpage.Tha’s why I cannot put the mainpage as the first page.
+
+
+
+
 Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
